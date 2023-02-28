@@ -109,6 +109,7 @@ function Hero() {
                 <img
                   src="https://cdn.rareblocks.xyz/collection/celebration/images/hero/1/hero-img.png"
                   className="w-full"
+                  alt="hero-img"
                 />
               </div>
             </div>

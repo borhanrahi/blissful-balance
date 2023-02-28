@@ -22,6 +22,7 @@ function MainFeature() {
           <div className="mb-4 lg:mb-6">
             <img
               src="https://images.unsplash.com/photo-1501139083538-0139583c060f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+              alt="feature"
               className="object-cover w-full h-56 rounded sm:h-64 md:h-80 lg:h-96 lg:object-contain"
             />
           </div>
